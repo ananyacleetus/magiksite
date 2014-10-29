@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/ananyacleetus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://magikstra.com
+  * I am ananyacleetus (https://keybase.io/ananyacleetus) on keybase.
+  * I have a public key with fingerprint E141 63D6 DE34 F983 F309  B925 F9D3 F7E1 2863 C1E5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e14163d6de34f983f309b925f9d3f7e12863c1e5",
+            "host": "keybase.io",
+            "key_id": "f9d3f7e12863c1e5",
+            "uid": "99a4c6816d00001ba84a4dce90dafa00",
+            "username": "ananyacleetus"
+        },
+        "service": {
+            "hostname": "magikstra.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1413071024,
+    "expire_in": 157680000,
+    "prev": "7c869bfefb1bb9df2ae9bfb1aef1390618dc2fa9c53c1f9db59f7be5e1451c28",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMHqAnicbZFrSBRRFMdXcxUtH6UUPSAYIxQWm7uzOzuzFPTBHlqQhGCmsd6ZuXcd
+dGfWmVlzMAkriMKFNLRECsLKLCRDiowiX0hUhK1fggrZwMAIQ/yg62u7I/at++Vy
+zvmf33mNpW+ypSXEJheieeLwdMKHocWQrZQf6m+kBFUyKW8jVYPWPywrfqQFNVkx
+KC+FgAuwjMRKiHFhnmMwQ/MC73RjXmKwBwEnxzIiQG7KQVWrupVBMALUUYGsEh8x
+fLJEvP/Rh9YDPA9dIssBVqLJAwLkXNAliYinJYghTVtCHWkKDCCihgpUTCjWImSE
+dKrJQZFQvSwiq3Gr/oYsAP1yjW5osEBUA4QQ1FRDFdVaEqo2jKDXyjTMoCU9jwTf
+BsQnyIpEpicJ9UjTZVWhvIAoRUO2qGQTDO0BtNPloFBDUNaQT7YUbg/LWb1bZVA9
+QXpEjuUFjLAABIGXsBMiYgoAIgwYnmYBJ4lODHnRTVZBFiO4eewRkJvs2g1EJ0dZ
+Y9UpKmETqAH9hKnLfgUaIQ1RTSNDlUm2hDRbsj3ROqAtLTXr31nbUlNWs6/fP5Cb
+32jf3X16sqoskDm4yygp73jxNMkTa54Y+MOujIKK8sja5cM3opGx7o6WUOEn8GXc
+6Ovid957Ha5dKcnG3OqJ33vj5tnyxfb5C0Vm9Hj185mLFa0fq3J+UPYd7zoHetZ8
+Zv6eBib7QVZH/63Bh0Ls1ewZui78uKgs8TMO6W/idRnoyELmVKz/+1yXvXnmyv7R
+gp7k2aWWcGTCtnQqszX8LKUkw1mWU2PmxvYNtmPP7bdT0bxD24/GvdfaFLPy6ty3
+rQe9kaZfjjt3j82PG8WF8+e40m22S/uLp5f7Qsu63mvkvFwbbuntLNyylP4+/nPz
+yNdH8s2TT/4C54Afpg==
+=/1eY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ananyacleetus
+
+==================================================================
